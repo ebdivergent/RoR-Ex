@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ebdiv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ebdiv\\.nuget\\packages"
+    ]
+  }
+}

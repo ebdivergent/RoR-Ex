@@ -1,0 +1,13 @@
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\TEST EX RoR\Task2\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
